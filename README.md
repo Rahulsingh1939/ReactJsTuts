@@ -1,1 +1,1 @@
-This is For my Portfolio website Made using React Js ,Bootstrap and Tailwind CSS.
+A Simple Counter on SCroll Component using ReactsJs and CSS.

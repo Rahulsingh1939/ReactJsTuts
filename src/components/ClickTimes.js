@@ -5,13 +5,13 @@ class ClickTimes extends Component {
       super()
     
       this.state = {
-         msg:0
+         msg:1
       }
     }
     changeMsg()
     {
         this.setState({
-            msg:this.state.msg+1
+            msg:this.state.msg*2
         })
     }
     
